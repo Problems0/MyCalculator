@@ -308,7 +308,7 @@ done
 	echo -e "${WHITE}└──────────────────────┘"
 	
 	
-	echo -e "           -----🤔OQ VAI FAZER? 🤔-----                  "
+	echo -e "-----🤔OQ VAI FAZER? 🤔-----                  "
  echo -e "${WHITE}┌──────────────────────┐"
 	echo -e "${WHITE}│┗━━➤ 1│➡️CONTINUAR"
 	echo -e "${WHITE}│┗━━➤ 2│📂MENU "
