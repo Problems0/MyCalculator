@@ -37,3 +37,6 @@ $ wget https://raw.githubusercontent.com/Problems0/MyCalculator/main/c.sh && chm
     </tr>
   </table>
 </div>
+<div align="center">
+     <a href="https://t.me/NobodyDev"><img alt="Version" src="https://img.shields.io/static/v1?label=FOR BUGS&message=@NobodyDev&style=for-the-badge&color=green&logo=telegram"/></a>
+</div>
