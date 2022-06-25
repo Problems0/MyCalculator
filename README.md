@@ -8,8 +8,6 @@
   <a href="https://github.com/Problems0"><img title="Autor" src="https://img.shields.io/badge/Autor-Problems0-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Problems0?tab=followers"><img title="Seguidores" src="https://img.shields.io/github/followers/Problems0?color=blue&style=flat-square"></a>
-  <a href="https://github.com/Problems0?tab=stars"><img title="Estrelas" src="https://img.shields.io/github/stars/Xinz-Team/XinzBot?color=red&style=flat-square"></a>
 </p>
 </div>
 
